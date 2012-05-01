@@ -2,6 +2,6 @@
 
 public static main()
 {
-    printf("Hello World");
+    printf("This is an excellent example of my 1337 coding skillz.");
 
 }
